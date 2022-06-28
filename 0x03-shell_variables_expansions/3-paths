@@ -1,0 +1,2 @@
+#!/bin/bash
+echo $PATH l tr -s ":"/n" l wc -l
